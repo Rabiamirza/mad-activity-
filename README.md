@@ -1,1 +1,2 @@
-# mad-activity-
+# react-exercises
+ mad activity 2
